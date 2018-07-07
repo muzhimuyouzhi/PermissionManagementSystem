@@ -17,6 +17,9 @@
     <!-- 在这里继续编辑 -->
     <mappers>
         <package name="com.pms.mapper"/>
+
+
+
     </mappers>
 
 </configuration>
